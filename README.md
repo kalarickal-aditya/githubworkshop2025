@@ -6,9 +6,10 @@ Welcome to the GitHub Workshop 2025! This folder is where you'll add your person
 
 ### Step 1: Create Your HTML File
 
-1. Copy `example-template.html` and rename it to `yourname.html` (e.g., `john-doe.html`)
-2. Edit the file and customize it with your information:
-   - Replace `[Your Name]` with your actual name
+1. Create a new file named `yourname.html` (e.g., `john-doe.html`) in the `attendees/` folder
+2. Refer to `rushikesh-gaonkar.html` as a reference example
+3. Customize it with your information:
+   - Replace with your actual name and details
    - Add your bio, skills, and what you learned
    - Feel free to get creative!
 
@@ -42,7 +43,7 @@ Welcome to the GitHub Workshop 2025! This folder is where you'll add your person
 
 - [ ] My HTML file is named `yourname.html` (lowercase, use hyphens)
 - [ ] I updated the navigation in `index.html`
-- [ ] My page includes the navbar from the template
+- [ ] My page includes the navbar structure
 - [ ] The favicon and logo paths are correct (`../logo.jpg`)
 - [ ] The stylesheet is linked (`../style.css`)
 - [ ] All links work correctly
@@ -52,13 +53,15 @@ Welcome to the GitHub Workshop 2025! This folder is where you'll add your person
 
 - Keep the navbar and footer structure consistent
 - Use the existing CSS classes for styling
+- **You can add inline CSS or JavaScript if you want extra customization!**
 - Add emojis to make your page fun! 🎉
 - You can add more `step-card` divs to show more about yourself
+- Check out `rushikesh-gaonkar.html` for inspiration and structure
 - Test your page by opening it in a browser before submitting
 
 ## 🆘 Need Help?
 
-If you're stuck, check out `example-template.html` or ask a workshop mentor!
+If you're stuck, check out `rushikesh-gaonkar.html` as a reference or ask a workshop mentor!
 
 ---
 
